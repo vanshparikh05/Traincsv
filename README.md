@@ -1,10 +1,7 @@
-Sure! Here's a clear and well-structured explanation of the code you've shared. This is suitable for including in a `README.md` file for your GitHub project (excluding code syntax blocks).
 
----
+Naive Bayes & K-Nearest Neighbors from Scratch
 
-## 🧠 Naive Bayes & K-Nearest Neighbors from Scratch
-
-### 🚢 Dataset
+ Dataset
 
 The project uses the Titanic dataset (`train.csv`), a classic machine learning dataset from Kaggle that contains details of passengers aboard the Titanic, along with information on whether each passenger survived or not.
 
